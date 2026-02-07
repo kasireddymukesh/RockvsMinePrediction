@@ -9,6 +9,7 @@
 This project focuses on predicting whether an object detected by sonar signals is a **Rock (R)** or a **Mine (M)** using machine learning techniques. The classification is performed using **Logistic Regression**, a supervised learning algorithm suitable for binary classification problems.
 
 Sonar systems emit sound waves and analyze the reflected signals. Different objects reflect sound differently, and these variations can be used as features for prediction.
+hi text
 
 ---
 
